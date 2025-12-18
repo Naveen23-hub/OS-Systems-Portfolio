@@ -44,7 +44,7 @@ make
 ./loader fib  # Load and run the fibonacci test program
 ```
 
-## ⚡ Project 3: C++ Multithreading Library
+##  Project 3: C++ Multithreading Library
 **Location:** [`/Multithreading-Library`](./Multithreading-Library)
 
 A lightweight header-only library (`simple-multithreader.h`) that abstracts `pthread` complexity, allowing users to parallelize loops effortlessly.
